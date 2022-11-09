@@ -9,13 +9,13 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@expo/webpack-config": "^0.16.19",
+    "@expo/webpack-config": "^0.17.0",
     "ansi-html": "^0.0.9",
     "browserslist": "^4.21.4",
     "chokidar": "^3.5.3",
     "expo": "~46.0.16",
     "expo-status-bar": "~1.4.0",
-    "expo-updates": "~0.14.6",
+    "expo-updates": "~0.14.7",
     "glob-parent": "^6.0.2",
     "immer": "^9.0.16",
     "loader-utils": "^3.2.0",
